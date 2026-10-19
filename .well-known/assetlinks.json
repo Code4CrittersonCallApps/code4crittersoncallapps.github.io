@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sheehanhomestead.gold",
+      "sha256_cert_fingerprints": [
+        "59:37:58:27:29:18:5C:E5:A7:9B:15:92:4A:D4:7B:0C:2C:82:31:9F:8A:40:9B:99:CF:AC:19:14:A8:06:A8:51"
+      ]
+    }
+  }
+]
